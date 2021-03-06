@@ -91,11 +91,11 @@ Enter in the terminal of each RPi:
 
 Enter
     
-    AKIA4SCVC5IKZXPJ3END
+	AKIAJOVO2X3UICHURSLQ
 
 and press enter. Enter
 
-    WYBG3ORc4i42OiiNyXT62Q4hSAWJgUKqCfRcN4ah
+	MgD7s8okAy4gAF4zJ1kDup4XIiD6pmdXNXoe/4HW
 
 and press enter. Enter
 
@@ -178,6 +178,6 @@ Open this URL:
 Use this username and passowrd:
 
     akggohigh2020@gmail.com
-	Kragerup2021!
+	Yanaitw2wcCaaba1
 
 (or search for s3 in https://console.aws.amazon.com/)
